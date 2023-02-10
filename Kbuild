@@ -1,3 +1,3 @@
 # SPDX-License-Identifier: GPL-2.0
 
-obj-m := rust_tls.o
+obj-m := rust_tls_srv.o

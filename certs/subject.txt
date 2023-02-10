@@ -1,0 +1,1 @@
+subjectAltName = DNS:test.dev, DNS:localhost
